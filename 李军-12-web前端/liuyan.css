@@ -1,0 +1,15 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+.content{
+	width: 600px;
+	height: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+#input{
+	width: 60%;
+	height: 20px;
+}
